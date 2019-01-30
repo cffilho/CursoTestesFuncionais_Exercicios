@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.co.figueira.test.TestResumo
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.578 sec - in br.co.figueira.test.TestResumo
